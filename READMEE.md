@@ -16,9 +16,9 @@
 <a href="https://viniciussaless.github.io/html-css/exercicios/ex015/index.html">EXERCÍCIO 15</a><br>
 
 <li>EXERCICIOS 16
-    <ul><a href="https://viniciussaless.github.io/html-css/exercicios/ex0016/cor01.html">EXERCÍCIO 16 - COR01</a></ul>
-    <ul><a href="https://viniciussaless.github.io/html-css/exercicios/ex0016/cor02.html">EXERCÍCIO 16 - COR02</a></ul>
-    <ul><a href="https://viniciussaless.github.io/html-css/exercicios/ex0016/cor03.html">EXERCÍCIO 16 - COR03</a></ul>
+    <ul><a href="https://viniciussaless.github.io/html-css/exercicios/ex016/cor01.html">EXERCÍCIO 16 - COR01</a></ul>
+    <ul><a href="https://viniciussaless.github.io/html-css/exercicios/ex016/cor02.html">EXERCÍCIO 16 - COR02</a></ul>
+    <ul><a href="https://viniciussaless.github.io/html-css/exercicios/ex016/cor03.html">EXERCÍCIO 16 - COR03</a></ul>
 </li>
 
 <a href="https://viniciussaless.github.io/html-css/exercicios/ex017/index.html">EXERCÍCIO 17</a><br>
