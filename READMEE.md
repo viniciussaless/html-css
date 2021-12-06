@@ -14,14 +14,17 @@
 <a href="https://viniciussaless.github.io/html-css/exercicios/ex013/index.html">EXERCÍCIO 13</a><br>
 <a href="https://viniciussaless.github.io/html-css/exercicios/ex014/index.html">EXERCÍCIO 14</a><br>
 <a href="https://viniciussaless.github.io/html-css/exercicios/ex015/index.html">EXERCÍCIO 15</a><br>
+
 <li>EXERCICIOS 16
     <ul><a href="https://viniciussaless.github.io/html-css/exercicios/ex0016/cor01.html">EXERCÍCIO 16 - COR01</a></ul>
     <ul><a href="https://viniciussaless.github.io/html-css/exercicios/ex0016/cor02.html">EXERCÍCIO 16 - COR02</a></ul>
     <ul><a href="https://viniciussaless.github.io/html-css/exercicios/ex0016/cor03.html">EXERCÍCIO 16 - COR03</a></ul>
 </li><br>
+
 <a href="https://viniciussaless.github.io/html-css/exercicios/ex017/index.html">EXERCÍCIO 17</a><br>
 <a href="https://viniciussaless.github.io/html-css/exercicios/ex018/index.html">EXERCÍCIO 18</a><br>
 <a href="https://viniciussaless.github.io/html-css/exercicios/ex019/seletor01.html">EXERCÍCIO 19</a><br>
+
 <li>EXERCÍCIOS 20
     <ul><a href="https://viniciussaless.github.io/html-css/exercicios/ex020/hover.html">EXERCÍCIO 20 - HOVER</a></ul>
     <ul><a href="https://viniciussaless.github.io/html-css/exercicios/ex020/link.html">EXERCÍCIO 20 - LINK</a></ul>
