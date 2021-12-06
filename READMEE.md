@@ -3,6 +3,3 @@
 <a href="https://viniciussaless.github.io/html-css/Desafio/d012/index.html">CORDEL</a><br>
 ----------- EXERCÍCIOS -----------<br>
 <a href="https://github.com/viniciussaless/html-css/tree/main/exercicios">Exercicios de 1 ao 22</a>
-
------------ EXERCÍCIOS -----------<br>
-<a href="READMEE.md">TESTE</a>
