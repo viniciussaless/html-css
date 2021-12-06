@@ -17,10 +17,10 @@
 <a href="https://viniciussaless.github.io/html-css/exercicios/ex013/index.html">Executar o exercício 013<a><br>
 <a href="https://viniciussaless.github.io/html-css/exercicios/ex014/index.html">Executar o exercício 014<a><br>
 <a href="https://viniciussaless.github.io/html-css/exercicios/ex015/index.html">Executar o exercício 015<a><br>
-<a href="https://viniciussaless.github.io/html-css/exercicios/ex016/index.html">Executar o exercício 016<a><br>
+<a href="https://viniciussaless.github.io/html-css/exercicios/ex016/cor01.html">Executar o exercício 016<a><br>
 <a href="https://viniciussaless.github.io/html-css/exercicios/ex017/index.html">Executar o exercício 017<a><br>
 <a href="https://viniciussaless.github.io/html-css/exercicios/ex018/index.html">Executar o exercício 018<a><br>
 <a href="https://viniciussaless.github.io/html-css/exercicios/ex019/seletor01.html">Executar o exercício 019<a><br>
 <a href="https://viniciussaless.github.io/html-css/exercicios/ex020/hover.html">Executar o exercício 020<a><br>
 <a href="https://viniciussaless.github.io/html-css/exercicios/ex021/caixa01.html">Executar o exercício 021<a><br>
-<a href="https://viniciussaless.github.io/html-css/exercicios/ex022/fundo01.html">Executar o exercício 022<a><br>
+<a href="https://viniciussaless.github.io/html-css/exercicios/ex022/fundo001.html">Executar o exercício 022<a><br>
