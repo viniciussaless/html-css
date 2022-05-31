@@ -1,5 +1,5 @@
 
-<a href="https://viniciussaless.github.io/html-css/exercicios/ex001/index.html" target='_blank'>EXERCÍCIO 1</a><br>
+<a href="https://viniciussaless.github.io/html-css/exercicios/ex001/index.html" target="_blank">EXERCÍCIO 1</a><br>
 <a href="https://viniciussaless.github.io/html-css/exercicios/ex002/index.html">EXERCÍCIO 2</a><br>
 <a href="https://viniciussaless.github.io/html-css/exercicios/ex003/index.html">EXERCÍCIO 3</a><br>
 <a href="https://viniciussaless.github.io/html-css/exercicios/ex004/index.html">EXERCÍCIO 4</a><br>
