@@ -49,5 +49,10 @@
 
 <li>EXERCÍCIOS 23
     <ul><a href="https://viniciussaless.github.io/html-css/exercicios/ex023/tabela001.html">EXERCÍCIO 23 - TABELA001</a></ul>
+    <ul><a href="https://viniciussaless.github.io/html-css/exercicios/ex023/tabela002.html">EXERCÍCIO 23 - TABELA002</a></ul>
+    <ul><a href="https://viniciussaless.github.io/html-css/exercicios/ex023/tabela003.html">EXERCÍCIO 23 - TABELA003</a></ul>
+    <ul><a href="https://viniciussaless.github.io/html-css/exercicios/ex023/tabela004.html">EXERCÍCIO 23 - TABELA004</a></ul>
+    <ul><a href="https://viniciussaless.github.io/html-css/exercicios/ex023/tabela005.html">EXERCÍCIO 23 - TABELA005</a></ul>
+    <ul><a href="https://viniciussaless.github.io/html-css/exercicios/ex023/tabela006.html">EXERCÍCIO 23 - TABELA006</a></ul>
 </li> 
 <a href="https://github.com/viniciussaless/html-css">Voltar</a>
