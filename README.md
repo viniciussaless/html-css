@@ -1,4 +1,4 @@
-EXERCÍCIOS DE HTML5
+EXERCÍCIOS DE HTML5 </br>
 <a href="https://viniciussaless.github.io/html-css/exercicios/ex001/index.html">EXERCÍCIO 1</a><br>
 <a href="https://viniciussaless.github.io/html-css/exercicios/ex002/index.html">EXERCÍCIO 2</a><br>
 <a href="https://viniciussaless.github.io/html-css/exercicios/ex003/index.html">EXERCÍCIO 3</a><br>
