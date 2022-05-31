@@ -55,4 +55,8 @@
     <ul><a href="https://viniciussaless.github.io/html-css/exercicios/ex023/tabela005.html">EXERCÍCIO 23 - TABELA005</a></ul>
     <ul><a href="https://viniciussaless.github.io/html-css/exercicios/ex023/tabela006.html">EXERCÍCIO 23 - TABELA006</a></ul>
 </li> 
+
+<li>EXERCÍCIOS 24   
+    <ul><a href="https://viniciussaless.github.io/html-css/exercicios/ex024/iframe001.html">EXERCÍCIO 24 - IFRAME001</a></ul>
+</li>
 <a href="https://github.com/viniciussaless/html-css">Voltar</a>
